@@ -3,6 +3,8 @@
 This is a Python-based trading bot built for the Binance Futures Testnet (USDT-M). It features a fully modular backend architecture for order execution and includes both a Command Line Interface (CLI) and a live web-based UI.
 
 **[Here is the light UI that you can place orders from](https://binancetradingbotzoaarpitanayak-9lexliys8rwuylg8vvlpvr.streamlit.app/)**
+
+
 **[Here is the website that gets affected, as the API is preloaded you cant replace the affected account in this UI](https://testnet.binancefuture.com)**
 
 *(Note: The live UI is pre-configured with secure demo testnet API keys. No setup required.)*
