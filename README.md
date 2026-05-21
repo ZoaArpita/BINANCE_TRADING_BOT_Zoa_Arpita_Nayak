@@ -75,12 +75,11 @@ Markdown
 
 ### 2. Installation
 Clone the repository and install the required dependencies:
-
-git clone [https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git](https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak))
-cd BITNANCE_TRADING_BOT
+```
+git clone [https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak.git](https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak.git)
+cd BINANCE_TRADING_BOT_Zoa_Arpita_Nayak
 pip install -r requirements.txt
-
-
+```
 3. Environment Variables
 
 To run the bot locally, you must provide your own Binance Testnet API keys.
