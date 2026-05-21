@@ -71,7 +71,6 @@ If you wish to run the CLI locally, follow these steps:
 * Python 3.9+
 * A Binance Futures Testnet Account
 
-Markdown
 
 ### 2. Installation
 Clone the repository and install the required dependencies:
