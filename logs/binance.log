@@ -1,0 +1,13 @@
+2026-05-19 18:17:18,593- INFO - Preparing MARKETBUY order for 0.01 BTCUSDT
+2026-05-19 18:17:18,596- INFO - Sending POST  to /fapi/v1/order
+2026-05-19 18:26:09,977- INFO - Preparing LIMITSELL order for 0.01 BTCUSDT
+2026-05-19 18:26:09,980- INFO - Sending POST  to /fapi/v1/order
+2026-05-19 18:26:10,774- ERROR - Binance API Error: {"code":-1115,"msg":"Invalid timeInForce."}
+2026-05-19 18:29:30,654- INFO - Preparing LIMITSELL order for 0.01 BTCUSDT
+2026-05-19 18:29:30,655- INFO - Sending POST  to /fapi/v1/order
+2026-05-19 18:30:44,424- INFO - Preparing LIMITBUY order for 0.01 BTCUSDT
+2026-05-19 18:30:44,425- INFO - Sending POST  to /fapi/v1/order
+2026-05-19 18:31:01,029- INFO - Preparing LIMITSELL order for 0.01 BTCUSDT
+2026-05-19 18:31:01,031- INFO - Sending POST  to /fapi/v1/order
+2026-05-21 11:49:50,033- INFO - Preparing MARKETBUY order for 0.01 BTCUSDT
+2026-05-21 11:49:50,037- INFO - Sending POST  to /fapi/v1/order
