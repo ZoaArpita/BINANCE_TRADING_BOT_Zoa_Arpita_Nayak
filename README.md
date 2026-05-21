@@ -76,7 +76,7 @@ Markdown
 ### 2. Installation
 Clone the repository and install the required dependencies:
 
-git clone [https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git](https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git)
+git clone [https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git](https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak))
 cd BITNANCE_TRADING_BOT
 pip install -r requirements.txt
 
