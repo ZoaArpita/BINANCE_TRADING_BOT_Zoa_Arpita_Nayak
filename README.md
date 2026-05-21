@@ -76,7 +76,7 @@ If you wish to run the CLI locally, follow these steps:
 Clone the repository and install the required dependencies:
 
 ```
-git clone [https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak.git](https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak.git)
+git clone https://github.com/ZoaArpita/BINANCE_TRADING_BOT_Zoa_Arpita_Nayak.git
 cd BINANCE_TRADING_BOT_Zoa_Arpita_Nayak
 pip install -r requirements.txt
 ```
