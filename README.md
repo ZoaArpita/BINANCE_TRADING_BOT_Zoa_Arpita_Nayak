@@ -15,8 +15,9 @@ This is a Python-based trading bot built for the Binance Futures Testnet (USDT-M
 Check the timing for each
 
 LIMIT BUY
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/43b1e75d-f31b-463c-a681-30b4efd74c75" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/86c9b31e-f4ba-425f-980d-77715accc2f6" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/dbc26906-3697-432f-bfd6-73f60d580755" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c88f4710-2e1e-4fd4-a89e-4f6daee24d01" />
+
 
 LIMIT SELL
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/74cc6a99-4bb3-49b1-9437-55de82d7a507" />
