@@ -70,14 +70,16 @@ If you wish to run the CLI locally, follow these steps:
 * Python 3.9+
 * A Binance Futures Testnet Account
 
+Markdown
+
 ### 2. Installation
 Clone the repository and install the required dependencies:
-```
+
 git clone [https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git](https://github.com/ZoaArpita/BITNANCE_TRADING_BOT.git)
 cd BITNANCE_TRADING_BOT
 pip install -r requirements.txt
 
-```
+
 3. Environment Variables
 
 To run the bot locally, you must provide your own Binance Testnet API keys.
@@ -85,6 +87,7 @@ Create a file named .env in the root directory and add your credentials:
 Code snippet
 
 BINANCE_API_KEY="your_testnet_api_key_here"
+
 BINANCE_API_SECRET="your_testnet_api_secret_here"
 
 CLI Usage Examples
